@@ -38,7 +38,7 @@ need local directory named 'results'
 pip install pipenv==2022.1.8
 pipenv shell
 pip install -r requirement.txt
-python homebrew_gans_final.py <dataset_img_path>
+python homebrew_gans_final.py
 ```
 
 ### Notes
