@@ -2,10 +2,10 @@
 
 Group Members -
 
-- John Wang 015938845 john.wang@sjsu.edu MSAI
-- Amy Phan 012194572 amylan-anh.phan@sjsu.edu MSSE
-- Jack Zhu 012218128 jiali.zhu@sjsu.edu MSAI
-- David Archer guosheng.zhang@sjsu.edu MSAI
+John Wang 8845 john.wang@sjsu.edu MSAI
+Jack Zhu 8128 jiali.zhu@sjsu.edu MSAI
+Amy Phan 4572 amylan-anh.phan@sjsu.edu MSSE
+David Archer 0770 guosheng.zhang@sjsu.edu MSAI
 
 ## link for dataset:
 
@@ -34,5 +34,6 @@ python dcgan.py
 
 You will see all the generated image on the same directory.
 
-- intent
-  - utter\_
+## Reference
+
+https://www.tensorflow.org/tutorials/generative/dcgan
